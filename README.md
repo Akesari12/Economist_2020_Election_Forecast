@@ -5,4 +5,4 @@ This code was forked from Elliott Morris' code that calculates Biden win probabi
 
 You can adjust biden_states or trump_states to add those states to either candidate's column as results come in. `biden_scores_list` allows you to bound Biden's vote share. Running the code will produce a plot that looks like this:
 
-![Base Map as of Morning of Nov. 3, 2020](images/base map)
+![Base Map as of Morning of Nov. 3, 2020](https://github.com/Akesari12/Economist_2020_Election_Forecast/blob/main/images/base%20map.png)
